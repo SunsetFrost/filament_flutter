@@ -1,0 +1,6 @@
+module filament_3d {
+  umbrella header "filament_3d-umbrella.h"
+
+  export *
+  module * { export * }
+}

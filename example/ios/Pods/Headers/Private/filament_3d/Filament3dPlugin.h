@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/filament_3d/ios/Classes/Filament3dPlugin.h
